@@ -89,7 +89,6 @@ export default function Game({ gameProperties }) {
       while (gameMatClone[1 + j][1 + j + i] != "a") {
         sumToRight += parseInt(gameMatClone[1 + j][1 + j + i]);
         sumToLeft += parseInt(gameMatClone[1 + j][gameProperties.col - i - j]);
-        console.log("-------");
         if (sumToRight > gameProperties.sum || sumToLeft > gameProperties.sum) {
           return false;
         }
