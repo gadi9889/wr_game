@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wr_game/static/css/main.7621965a.css",
+    "main.js": "/wr_game/static/js/main.23df5886.js",
+    "index.html": "/wr_game/index.html",
+    "main.7621965a.css.map": "/wr_game/static/css/main.7621965a.css.map",
+    "main.23df5886.js.map": "/wr_game/static/js/main.23df5886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7621965a.css",
+    "static/js/main.23df5886.js"
+  ]
+}
